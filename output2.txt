@@ -1,0 +1,176 @@
+Received read request 2: register: "reed"
+timestamp: 1569442055165
+value: "57"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+Received read request 2: register: "reed"
+timestamp: 1569442055165
+value: "57"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+Received read request 1: register: "reed"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+None
+Received read request 2: register: "reed"
+timestamp: 1569442055165
+value: "57"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+^CStopping the ABD server...
+ABD server stopped...
+(base) USCS-Mac262:CS249-P1 admin$ clear
+
+(base) USCS-Mac262:CS249-P1 admin$ python abd_server.py 
+Enter the port number you want to open for server: 2323
+Starting the ABD server...
+Received read request 1: register: "reed"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+None
+Received read request 1: register: "reed"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+None
+ABD server now running... Listening at port 2323...
+Received read request 1: register: "reed"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+None
+Received read request 2: register: "reed"
+timestamp: 1569442055165
+value: "57"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+Received read request 2: register: "reed"
+timestamp: 1569442055165
+value: "57"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+Received write request: register: "jonathan-2"
+timestampe: 1569442372
+value: "a"
+
+Received read request 1: register: "register"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "register";
+Executed
+None
+None
+Received read request 1: register: "reed"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+None
+Received read request 2: register: "reed"
+timestamp: 1569442055165
+value: "57"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+Received read request 1: register: "reed"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+None
+Received read request 2: register: "reed"
+timestamp: 1569442055165
+value: "57"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "reed";
+Executed
+None
+Received write request: register: "anket"
+timestampe: 1569442535
+value: "3205"
+
+Received read request 1: register: "register"
+
+Connected
+Connected to database
+Start reader
+1
+SELECT * FROM abd WHERE register = "register";
+Executed
+None
+None
+^CStopping the ABD server...
+ABD server stopped...
+(base) USCS-Mac262:CS249-P1 admin$ 

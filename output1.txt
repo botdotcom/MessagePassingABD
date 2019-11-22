@@ -1,0 +1,239 @@
+Enter the port number you want to open for server: 2323
+Starting the ABD server...
+ABD server now running... Listening at port 2323...
+Received request: register: "ccl"
+timestampe: 1569266996
+value: "1stWrite"
+
+Received request: register: "ccl"
+timestampe: 1569267029
+value: "1stWrite"
+
+Received request: register: "ccl"
+
+Received request: register: "ccl"
+
+Received request: register: "ccl"
+timestampe: 1569267130
+value: "1stWrite"
+
+Received request: register: "ccl"
+
+Received request: register: "ccl"
+timestampe: 1569267177
+value: "1stWrite"
+
+Received request: register: "ccl"
+timestampe: 1569267200
+value: "1stWrite"
+
+Received request: register: "ccl"
+timestampe: 1569267240
+value: "1stWrite"
+
+Received request: register: "1"
+
+Received request: register: "R1"
+
+Received request: register: "1"
+timestampe: 1569267294
+value: "1"
+
+Received request: register: "ccl"
+timestampe: 1569267320
+value: "1stWrite"
+
+Received request: register: "1"
+timestampe: 1569267363
+value: "1"
+
+Received request: register: "x"
+timestampe: 1569267364602
+value: "1099"
+
+Received request: register: "1"
+timestampe: 1569267392
+value: "1"
+
+Received request: register: "ccl"
+timestampe: 1569267408
+value: "1stWrite"
+
+Received request: register: "ccl"
+timestampe: 1569267433
+value: "1stWrite"
+
+Received request: register: "1"
+
+Received request: register: "1"
+timestampe: 1569267458
+value: "1"
+
+Received request: register: "x"
+timestampe: 1569267460537
+value: "1099"
+
+Received request: register: "ccl"
+
+Received request: register: "1"
+
+Received request: register: "1"
+
+Received request: register: "ccl"
+timestampe: 1569267530
+value: "1stWrite"
+
+Received request: register: "1"
+
+Received request: register: "ccl"
+timestampe: 1569267589
+value: "1stWrite"
+
+Received request: register: "1"
+timestampe: 1569267644
+value: "1"
+
+Received request: register: "ccl"
+timestampe: 1569267656
+value: "1stWrite"
+
+Received request: register: "1"
+value: "3"
+
+Received request: register: "1"
+value: "3"
+
+Received request: register: "1"
+value: "3"
+
+Received request: register: "1"
+value: "3"
+
+Received request: register: "1"
+value: "3"
+
+Received request: register: "1"
+
+Received request: register: "1"
+
+Received request: register: "ccl"
+
+Received request: register: "1"
+value: "3"
+
+Received request: register: "1"
+value: "3"
+
+Received request: register: "1"
+value: "3"
+
+Received request: register: "1"
+value: "3"
+
+Received request: register: "1"
+value: "3"
+
+Received request: register: "1"
+timestampe: 1569267820
+value: "1"
+
+Received request: register: "1"
+
+Received request: register: "5"
+timestampe: 1569267869
+value: "5"
+
+Received request: register: "1"
+timestampe: 1569267876
+value: "1"
+
+Received request: register: "5"
+
+Received request: register: "5"
+timestamp: 1569267869
+value: "5"
+
+Received request: register: "1"
+
+Received request: register: "1"
+
+Received request: register: "1"
+
+Received request: register: "x"
+timestampe: 1569267929979
+value: "1099"
+
+Received request: register: "1"
+timestampe: 1569267963
+value: "1"
+
+Received request: register: "1"
+
+Received request: register: "1"
+timestamp: 1569267847869075981
+value: "myValue"
+
+Received request: register: "1"
+timestampe: 1569267991
+value: "1"
+
+Received request: register: "1"
+
+Received request: register: "1"
+timestamp: 1569267847869075981
+value: "myValue"
+
+Received request: register: "doesthiswork"
+timestampe: 1569268005
+value: "10"
+
+Received request: register: "x"
+timestampe: 1569268010158
+value: "1099"
+
+Received request: register: "doesthiswork"
+
+Received request: register: "doesthiswork"
+timestamp: 1569268005
+value: "10"
+
+Received request: register: "x"
+timestampe: 1569268041464
+value: "1099"
+
+Received request: register: "ccl"
+timestampe: 1569268079
+value: "1stWrite"
+
+Received request: register: "doesthiswork"
+
+Received request: register: "doesthiswork"
+timestamp: 1569268005
+value: "10"
+
+Received request: register: "0"
+
+Received request: register: "ccl"
+timestampe: 1569268124
+value: "1stWrite"
+
+Received request: register: "doesthiswork"
+
+Received request: register: "doesthiswork"
+timestamp: 1569268005
+value: "10"
+
+Received request: register: "1"
+
+Received request: register: "1"
+timestampe: 1569268165
+value: "1"
+
+Received request: register: "ccl"
+
+Received request: register: "ccl"
+timestamp: 1569268187
+value: "1stWrite"
+
+^CStopping the ABD server...
+ABD server stopped...
